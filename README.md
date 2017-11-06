@@ -1,3 +1,3 @@
 # hello-world
 guide thingy
-I'm a yound student who wants to learn programming.
+I'm a young student who wants to learn programming.
